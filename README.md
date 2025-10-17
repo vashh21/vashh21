@@ -10,4 +10,4 @@ I care about clarity, calm interfaces, and code that tells a good story.
 
 **Currently exploring:** conversational AI, scalable frontends, and why “simple” is always the hardest thing to build.
 
-[Portfolio](https://vashdev.vercel.app) | [LinkedIn](https://www.linkedin.com/in/vaishnavi-kadam/) | [GitHub](https://github.com/vashh21)
+[Portfolio](https://vashdev.vercel.app) | [LinkedIn](https://www.linkedin.com/in/vaishnavi-kadam/) 
